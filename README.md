@@ -1,1 +1,2 @@
-# patika
+# patika Veri Yapıları ve Algoritmalar
+www.patika.dev
